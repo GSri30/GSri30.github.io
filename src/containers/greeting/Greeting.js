@@ -5,6 +5,7 @@ import Button from "../../components/button/Button";
 import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FeelingProud from "./FeelingProud";
+import Typist from "react-text-typist";
 
 export default function Greeting(props) {
   const theme = props.theme;
@@ -24,7 +25,7 @@ export default function Greeting(props) {
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                {greeting.subTitle}
+                <Typist sentences={greeting.subTitle} loop={true} />
               </p>
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
