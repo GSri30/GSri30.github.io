@@ -1,1 +1,1523 @@
-{"data":[{"id":"MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1","title":"Migrated some files from TF 1.0 to 2.0","url":"https://github.com/tensorflow/addons/pull/1746","state":"OPEN","mergedBy":null,"createdAt":"2020-04-27T11:34:31Z","number":1746,"changedFiles":2,"additions":1,"deletions":6,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA5MDU3MDUz","title":"Added tutorial notebooks for Focal and Contrastive losses","url":"https://github.com/tensorflow/addons/pull/1732","state":"OPEN","mergedBy":null,"createdAt":"2020-04-26T10:17:22Z","number":1732,"changedFiles":2,"additions":512,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA4OTAxNTAy","title":"Fixed CyclicLearningRate and its tests' errors","url":"https://github.com/tensorflow/addons/pull/1729","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/18154355?u=f54c237b8932acf13dcfcd495ca8c8e6a3cbaae4&v=4","url":"https://github.com/seanpmorgan","login":"seanpmorgan"},"createdAt":"2020-04-25T12:33:41Z","number":1729,"changedFiles":2,"additions":60,"deletions":12,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA4ODY0NDU1","title":"Added serializability tests in all optimizers and fixed serializability bug in yogi","url":"https://github.com/tensorflow/addons/pull/1728","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/18154355?u=f54c237b8932acf13dcfcd495ca8c8e6a3cbaae4&v=4","url":"https://github.com/seanpmorgan","login":"seanpmorgan"},"createdAt":"2020-04-25T07:19:04Z","number":1728,"changedFiles":10,"additions":80,"deletions":2,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0","title":"Setting up complete workflow for project","url":"https://github.com/ashutosh1919/masterPortfolio/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2020-04-23T12:48:04Z","number":4,"changedFiles":19,"additions":38,"deletions":47,"baseRepository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","login":"ashutosh1919","url":"https://github.com/ashutosh1919"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0","title":"Test PR to setup workflow","url":"https://github.com/ashutosh1919/masterPortfolio/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2020-04-23T12:24:42Z","number":3,"changedFiles":1,"additions":32,"deletions":0,"baseRepository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","login":"ashutosh1919","url":"https://github.com/ashutosh1919"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA3MDkwMTk5","title":"Added layer_test in addons and refactoring the code","url":"https://github.com/tensorflow/addons/pull/1715","state":"OPEN","mergedBy":null,"createdAt":"2020-04-22T07:05:25Z","number":1715,"changedFiles":1,"additions":84,"deletions":2,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx","title":"Added Center loss","url":"https://github.com/tensorflow/addons/pull/1709","state":"OPEN","mergedBy":null,"createdAt":"2020-04-19T03:52:25Z","number":1709,"changedFiles":3,"additions":131,"deletions":1,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1NDkyMDkw","title":"Fixed _save_model not working for batches in ModelCheckpoint Callback","url":"https://github.com/tensorflow/tensorflow/pull/38669","state":"OPEN","mergedBy":null,"createdAt":"2020-04-18T12:26:37Z","number":38669,"changedFiles":1,"additions":16,"deletions":8,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1NDQ3MTk1","title":"Fixed average_model_checkpoint to have integer save_freq","url":"https://github.com/tensorflow/addons/pull/1702","state":"OPEN","mergedBy":null,"createdAt":"2020-04-18T05:20:34Z","number":1702,"changedFiles":2,"additions":27,"deletions":1,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA1MTAzNjY3","title":"Added LossFunctionWrapper for losses and simplified code","url":"https://github.com/tensorflow/addons/pull/1688","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/11615393?u=9734b198bd7f7498157e95d48371c39e44b5002b&v=4","url":"https://github.com/WindQAQ","login":"WindQAQ"},"createdAt":"2020-04-17T12:27:37Z","number":1688,"changedFiles":6,"additions":46,"deletions":90,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDA0MTU2NDUy","title":"Added Multi Similarity loss","url":"https://github.com/tensorflow/addons/pull/1679","state":"OPEN","mergedBy":null,"createdAt":"2020-04-16T06:59:30Z","number":1679,"changedFiles":4,"additions":573,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAzNzQwMjM1","title":"Added demo of TQDMProgressBar() for evaluate()","url":"https://github.com/tensorflow/addons/pull/1674","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/16867893?u=afbda060ede35cddb90255a8295460f6a2395135&v=4","url":"https://github.com/shun-lin","login":"shun-lin"},"createdAt":"2020-04-15T12:51:00Z","number":1674,"changedFiles":1,"additions":19,"deletions":1,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAzMTcxMjA3","title":"Added tests for AverageModelCheckpoint() callback","url":"https://github.com/tensorflow/addons/pull/1667","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/12891691?u=7f49c0407749c186e5df5e1cecb8b2daa47846e3&v=4","url":"https://github.com/gabrieldemarmiesse","login":"gabrieldemarmiesse"},"createdAt":"2020-04-14T13:04:03Z","number":1667,"changedFiles":1,"additions":199,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyOTg1MDU4","title":"Added code to call register_all() before loading model","url":"https://github.com/tensorflow/addons/pull/1665","state":"CLOSED","mergedBy":null,"createdAt":"2020-04-14T05:58:52Z","number":1665,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyNjMyMzcz","title":"Added code to pass appropriate logs to on_test|train_end() methods","url":"https://github.com/tensorflow/tensorflow/pull/38499","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-04-13T12:57:08Z","number":38499,"changedFiles":2,"additions":10,"deletions":6,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyMjg2MTk1","title":"Added TQDM Progressbar for evaluate()","url":"https://github.com/tensorflow/addons/pull/1649","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/12891691?u=7f49c0407749c186e5df5e1cecb8b2daa47846e3&v=4","url":"https://github.com/gabrieldemarmiesse","login":"gabrieldemarmiesse"},"createdAt":"2020-04-12T04:42:01Z","number":1649,"changedFiles":2,"additions":102,"deletions":58,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyMTg1MzUy","title":"Added new flexible loss named GeneralLoss","url":"https://github.com/tensorflow/addons/pull/1647","state":"OPEN","mergedBy":null,"createdAt":"2020-04-11T12:44:29Z","number":1647,"changedFiles":3,"additions":687,"deletions":0,"baseRepository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAyMTM5OTM5","title":"Adding progress bar also while evaluating the model","url":"https://github.com/tensorflow/tensorflow/pull/38447","state":"CLOSED","mergedBy":null,"createdAt":"2020-04-11T04:46:51Z","number":38447,"changedFiles":1,"additions":3,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAxNzgxODEy","title":"Fixed broken links for post training quant and xla","url":"https://github.com/tensorflow/docs/pull/1535","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-04-10T06:46:53Z","number":1535,"changedFiles":1,"additions":2,"deletions":2,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDAwMTA5MjQ0","title":"Fixed broken link for seo.js","url":"https://github.com/apollographql/gatsby-theme-apollo/pull/111","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/1216917?u=91a9f4a5d3d20f7606ec40922d734abfaf170fd7&v=4","url":"https://github.com/trevorblades","login":"trevorblades"},"createdAt":"2020-04-07T08:09:48Z","number":111,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"gatsby-theme-apollo","url":"https://github.com/apollographql/gatsby-theme-apollo","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/17189275?v=4","login":"apollographql","url":"https://github.com/apollographql"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk5NTk4Mjk2","title":"Modified Social Card Design","url":"https://github.com/firecampapp/firecamp-doc/pull/37","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/5078921?u=d767ecc4f7897ef750ce123b35fb23ac3ced2589&v=4","url":"https://github.com/Nishchit14","login":"Nishchit14"},"createdAt":"2020-04-06T12:06:58Z","number":37,"changedFiles":2,"additions":105,"deletions":0,"baseRepository":{"name":"firecamp-doc","url":"https://github.com/firecampapp/firecamp-doc","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/45025286?v=4","login":"firecampapp","url":"https://github.com/firecampapp"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk5MDI1MDc3","title":"header-button.js component shadowed to show the correct link","url":"https://github.com/firecampapp/firecamp-doc/pull/35","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/5078921?u=d767ecc4f7897ef750ce123b35fb23ac3ced2589&v=4","url":"https://github.com/Nishchit14","login":"Nishchit14"},"createdAt":"2020-04-05T10:57:55Z","number":35,"changedFiles":1,"additions":49,"deletions":0,"baseRepository":{"name":"firecamp-doc","url":"https://github.com/firecampapp/firecamp-doc","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/45025286?v=4","login":"firecampapp","url":"https://github.com/firecampapp"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk4MDc0NjYy","title":"Added Basic Reveal Fade animations","url":"https://github.com/saadpasta/developerFolio/pull/76","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/48270786?u=dab5f6dc64923f646b354f47f52af65f44fd9e7e&v=4","url":"https://github.com/kartik918","login":"kartik918"},"createdAt":"2020-04-03T09:52:10Z","number":76,"changedFiles":15,"additions":45,"deletions":0,"baseRepository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","login":"saadpasta","url":"https://github.com/saadpasta"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk3OTQzMTk3","title":"Added basic animations","url":"https://github.com/saadpasta/developerFolio/pull/74","state":"CLOSED","mergedBy":null,"createdAt":"2020-04-03T05:21:40Z","number":74,"changedFiles":18,"additions":463,"deletions":295,"baseRepository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","login":"saadpasta","url":"https://github.com/saadpasta"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk3NDkxODM2","title":"Added doc for absolute import from gatsby eslint rules or other tools","url":"https://github.com/gatsbyjs/gatsby/pull/22750","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15000607?u=96821f18af94d1574d81f3f50918fb51b595d2bf&v=4","url":"https://github.com/laurieontech","login":"laurieontech"},"createdAt":"2020-04-02T10:32:52Z","number":22750,"changedFiles":1,"additions":13,"deletions":0,"baseRepository":{"name":"gatsby","url":"https://github.com/gatsbyjs/gatsby","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/12551863?v=4","login":"gatsbyjs","url":"https://github.com/gatsbyjs"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk2OTUwMDgy","title":"Corrected order of params of loss fn in custom_training.ipynb","url":"https://github.com/tensorflow/docs/pull/1528","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-04-01T12:00:52Z","number":1528,"changedFiles":1,"additions":4,"deletions":4,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzk0MDU1Njc1","title":"docs(accordion):  add ul wrapper for standalone panel","url":"https://github.com/uber/baseweb/pull/3119","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/5317799?u=e5381f9c4ee2046154527e6276e38416fd7c8105&v=4","url":"https://github.com/chasestarr","login":"chasestarr"},"createdAt":"2020-03-26T09:36:30Z","number":3119,"changedFiles":2,"additions":6,"deletions":2,"baseRepository":{"name":"baseweb","url":"https://github.com/uber/baseweb","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/538264?v=4","login":"uber","url":"https://github.com/uber"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkzOTY1MDAz","title":"Added VariableV2 and VarHandleOp in python API of tesorflow","url":"https://github.com/tensorflow/tensorflow/pull/37925","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-26T05:27:07Z","number":37925,"changedFiles":1,"additions":94,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkzNDgxODcy","title":"Modified docstring for minlex","url":"https://github.com/sympy/sympy/pull/18949","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars3.githubusercontent.com/u/90703?u=71efaf421eece4f1d4d342751045acdd15108c50&v=4","url":"https://github.com/smichr","login":"smichr"},"createdAt":"2020-03-25T09:39:40Z","number":18949,"changedFiles":1,"additions":9,"deletions":6,"baseRepository":{"name":"sympy","url":"https://github.com/sympy/sympy","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/260832?v=4","login":"sympy","url":"https://github.com/sympy"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkzNDU3NDQ2","title":"Added New book dao tests","url":"https://github.com/kiwix/kiwix-android/pull/1958","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-25T08:43:57Z","number":1958,"changedFiles":1,"additions":90,"deletions":0,"baseRepository":{"name":"kiwix-android","url":"https://github.com/kiwix/kiwix-android","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/826219?v=4","login":"kiwix","url":"https://github.com/kiwix"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyODI5NzM5","title":"Changed message for opening link in new tab dialog","url":"https://github.com/kiwix/kiwix-android/pull/1951","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars3.githubusercontent.com/u/3358282?v=4","url":"https://github.com/macgills","login":"macgills"},"createdAt":"2020-03-24T07:46:29Z","number":1951,"changedFiles":1,"additions":2,"deletions":2,"baseRepository":{"name":"kiwix-android","url":"https://github.com/kiwix/kiwix-android","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/826219?v=4","login":"kiwix","url":"https://github.com/kiwix"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyNzc5NTI3","title":"Add behavioral note to VariableV2 and VarhandleOp","url":"https://github.com/tensorflow/tensorflow/pull/37855","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-24T05:09:43Z","number":37855,"changedFiles":2,"additions":7,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyNzY2NzIy","title":"Added example and description about numpy_function() in Dataset.map()","url":"https://github.com/tensorflow/tensorflow/pull/37853","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-24T04:19:08Z","number":37853,"changedFiles":1,"additions":17,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyNDAyOTI2","title":"Modified TensorScatterAdd to correctly specify examples for shape of tensor","url":"https://github.com/tensorflow/tensorflow/pull/37832","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-23T13:58:48Z","number":37832,"changedFiles":1,"additions":7,"deletions":6,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyMzA4MDUy","title":"Removed unnecessary examples for shape attribute which is not there in tensor_scatter_nd_add","url":"https://github.com/tensorflow/java/pull/35","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-23T10:51:46Z","number":35,"changedFiles":1,"additions":7,"deletions":6,"baseRepository":{"name":"java","url":"https://github.com/tensorflow/java","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyMTcxNjYw","title":"Modified spacing and comments in interpreter code in order to show it in codelabs","url":"https://github.com/tensorflow/examples/pull/178","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/47573996?u=802a3f06345c20b7ec61bcd70779bbd88e6bc56b&v=4","url":"https://github.com/TensorFlow-Examples-Copybara","login":"TensorFlow-Examples-Copybara"},"createdAt":"2020-03-23T05:44:31Z","number":178,"changedFiles":1,"additions":1,"deletions":3,"baseRepository":{"name":"examples","url":"https://github.com/tensorflow/examples","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkyMTYxMjc3","title":"Added description of effect of regularization on validation and test","url":"https://github.com/tensorflow/tensorflow/pull/37816","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-23T05:11:44Z","number":37816,"changedFiles":1,"additions":6,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkxOTY4ODE2","title":"Modified expand_path in config_parser to add environment var for mypy_path","url":"https://github.com/python/mypy/pull/8574","state":"OPEN","mergedBy":null,"createdAt":"2020-03-22T07:43:55Z","number":8574,"changedFiles":1,"additions":4,"deletions":0,"baseRepository":{"name":"mypy","url":"https://github.com/python/mypy","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/1525981?v=4","login":"python","url":"https://github.com/python"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzkxOTYwMDI5","title":"Added example in the doc for TypeVar in using generic classes","url":"https://github.com/python/mypy/pull/8573","state":"OPEN","mergedBy":null,"createdAt":"2020-03-22T05:38:59Z","number":8573,"changedFiles":1,"additions":38,"deletions":0,"baseRepository":{"name":"mypy","url":"https://github.com/python/mypy","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/1525981?v=4","login":"python","url":"https://github.com/python"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg4MTg3MTgx","title":" Added evaluation metric mean_absolute_relative_error","url":"https://github.com/scikit-learn/scikit-learn/pull/16689","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-14T06:43:13Z","number":16689,"changedFiles":10,"additions":162,"deletions":5,"baseRepository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","login":"scikit-learn","url":"https://github.com/scikit-learn"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg4MTY2Nzc4","title":"Added preprocessing and corrected example of RGB images before feeding rgb_to_yub","url":"https://github.com/tensorflow/tensorflow/pull/37592","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-14T05:28:38Z","number":37592,"changedFiles":1,"additions":8,"deletions":8,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3ODA4OTcz","title":"Added pytype in tfds/core/lazy_imports_lib.py patch-9","url":"https://github.com/tensorflow/datasets/pull/1642","state":"OPEN","mergedBy":null,"createdAt":"2020-03-13T14:32:36Z","number":1642,"changedFiles":1,"additions":22,"deletions":20,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3NzgyMjI5","title":"Added description for call() in tf.keras.layers.Layer","url":"https://github.com/tensorflow/tensorflow/pull/37574","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-13T13:39:28Z","number":37574,"changedFiles":1,"additions":6,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3NjYwMDQz","title":"Added code for preprocessing of YUV images before feeding yuv_to_rgb","url":"https://github.com/tensorflow/tensorflow/pull/37565","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-13T08:48:58Z","number":37565,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MjU5MDU4","title":"Corrected order of parameters in keras WideDeepModel","url":"https://github.com/tensorflow/tensorflow/pull/37539","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-12T13:57:32Z","number":37539,"changedFiles":1,"additions":5,"deletions":5,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MjUwMTU0","title":"Added doc and examples for tf.keras.losses.get","url":"https://github.com/tensorflow/tensorflow/pull/37538","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-12T13:41:13Z","number":37538,"changedFiles":1,"additions":21,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MTcxMDQy","title":"Fixed broken link for Bug & Performance issues","url":"https://github.com/tensorflow/community/pull/216","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/9475?v=4","url":"https://github.com/ewilderj","login":"ewilderj"},"createdAt":"2020-03-12T10:49:48Z","number":216,"changedFiles":1,"additions":2,"deletions":1,"baseRepository":{"name":"community","url":"https://github.com/tensorflow/community","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MTU0NDY5","title":" Added code and descriptions for complete beginners in overview.ipynb","url":"https://github.com/tensorflow/datasets/pull/1633","state":"CLOSED","mergedBy":null,"createdAt":"2020-03-12T10:16:34Z","number":1633,"changedFiles":1,"additions":28,"deletions":1,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg3MTA3NzU0","title":"Added example related to top_k parameter in tf.keras.metrics.Precision","url":"https://github.com/tensorflow/tensorflow/pull/37528","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-03-12T08:34:26Z","number":37528,"changedFiles":1,"additions":12,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0NjUzNjI3","title":"Added pytype in tfds/core/hashing.py patch-8","url":"https://github.com/tensorflow/datasets/pull/1592","state":"OPEN","mergedBy":null,"createdAt":"2020-03-06T06:18:21Z","number":1592,"changedFiles":1,"additions":6,"deletions":4,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0NjQxMjUx","title":"Added pytype in tfds/core/file_format_adapter.py patch-7","url":"https://github.com/tensorflow/datasets/pull/1591","state":"OPEN","mergedBy":null,"createdAt":"2020-03-06T05:27:59Z","number":1591,"changedFiles":2,"additions":52,"deletions":19,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0MDgxMzI2","title":"Added pytype in tfds/core/example_serializer.py patch-6","url":"https://github.com/tensorflow/datasets/pull/1578","state":"OPEN","mergedBy":null,"createdAt":"2020-03-05T05:51:54Z","number":1578,"changedFiles":2,"additions":31,"deletions":11,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzg0MDY5Nzk5","title":"Added pytype in tfds/core/example_parser.py patch-5","url":"https://github.com/tensorflow/datasets/pull/1576","state":"OPEN","mergedBy":null,"createdAt":"2020-03-05T05:06:18Z","number":1576,"changedFiles":2,"additions":22,"deletions":9,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgzNTkwMTcy","title":"Added pytype in tfds/core/dataset_utils.py patch-4","url":"https://github.com/tensorflow/datasets/pull/1570","state":"OPEN","mergedBy":null,"createdAt":"2020-03-04T14:25:28Z","number":1570,"changedFiles":2,"additions":42,"deletions":13,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgzNDQ4ODc1","title":"Added pytype in tfds/core/dataset_info.py patch-3","url":"https://github.com/tensorflow/datasets/pull/1569","state":"OPEN","mergedBy":null,"createdAt":"2020-03-04T09:59:07Z","number":1569,"changedFiles":1,"additions":77,"deletions":59,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgyNDY0ODAy","title":"Added pytype in tfds/core patch-2","url":"https://github.com/tensorflow/datasets/pull/1554","state":"OPEN","mergedBy":null,"createdAt":"2020-03-02T15:58:16Z","number":1554,"changedFiles":2,"additions":223,"deletions":106,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgyMTg2NjQx","title":"Added pytype in tfds/core patch-1","url":"https://github.com/tensorflow/datasets/pull/1550","state":"OPEN","mergedBy":null,"createdAt":"2020-03-02T05:42:03Z","number":1550,"changedFiles":2,"additions":42,"deletions":8,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgxODU4Njg5","title":"Specifying about representative_datasets in TfLiteConverter","url":"https://github.com/tensorflow/tensorflow/pull/37192","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-29T14:28:26Z","number":37192,"changedFiles":2,"additions":4,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgxODU1NDYy","title":"Corrected the default value for name param in Nadam","url":"https://github.com/tensorflow/tensorflow/pull/37188","state":"CLOSED","mergedBy":null,"createdAt":"2020-02-29T14:03:05Z","number":37188,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzgxODE4Njg0","title":"Added code to insert tfds dir into sys.path","url":"https://github.com/tensorflow/datasets/pull/1545","state":"CLOSED","mergedBy":null,"createdAt":"2020-02-29T08:38:18Z","number":1545,"changedFiles":1,"additions":3,"deletions":0,"baseRepository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc5MDE2MTEw","title":"Modified metric_utils.py to fix conflicts with floatx and float32","url":"https://github.com/tensorflow/tensorflow/pull/37020","state":"CLOSED","mergedBy":null,"createdAt":"2020-02-24T14:20:44Z","number":37020,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4OTUyODQ0","title":"Modified doc for specifically mentioning about saving optimizer","url":"https://github.com/tensorflow/docs/pull/1472","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-02-24T11:59:40Z","number":1472,"changedFiles":1,"additions":8,"deletions":8,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4OTAxMDU0","title":"Modified reduce_variance for extra optimization","url":"https://github.com/tensorflow/tensorflow/pull/37014","state":"OPEN","mergedBy":null,"createdAt":"2020-02-24T09:59:46Z","number":37014,"changedFiles":1,"additions":9,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzExNjM2","title":"Added doc for all application models for decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36995","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T14:27:24Z","number":36995,"changedFiles":8,"additions":189,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzEwMjM0","title":"Added doc in inception_resnet_v2 for decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36994","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T14:14:15Z","number":36994,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzA5MTM2","title":"Added doc in DenseNet for decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36993","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T14:05:28Z","number":36993,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzA4NDAy","title":"Added doc in MobileNet for decode_predictions() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36992","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T13:57:39Z","number":36992,"changedFiles":1,"additions":25,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4NzAxMDM3","title":"Added example of from_tensors and from_tensor_slices","url":"https://github.com/tensorflow/tensorflow/pull/36989","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-23T12:38:54Z","number":36989,"changedFiles":1,"additions":10,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4MjA1MzIx","title":"Added doc corresponding to decode_prediction() and preprocess_input()","url":"https://github.com/tensorflow/tensorflow/pull/36951","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-21T10:14:44Z","number":36951,"changedFiles":1,"additions":22,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mzc4MTM3MjQ5","title":"Modifying keras.py to print the KeyError with new line \\n","url":"https://github.com/tensorflow/estimator/pull/51","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/323199?v=4","url":"https://github.com/mihaimaruseac","login":"mihaimaruseac"},"createdAt":"2020-02-21T07:08:28Z","number":51,"changedFiles":2,"additions":20,"deletions":3,"baseRepository":{"name":"estimator","url":"https://github.com/tensorflow/estimator","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzcxMTc1NDAz","title":"Fix formatting of ops_version.md","url":"https://github.com/tensorflow/tensorflow/pull/36479","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-02-05T04:20:12Z","number":36479,"changedFiles":1,"additions":3,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY5NTEwMjYz","title":"Gradient Doc Changed for v2","url":"https://github.com/tensorflow/tensorflow/pull/36365","state":"CLOSED","mergedBy":null,"createdAt":"2020-01-31T10:21:07Z","number":36365,"changedFiles":1,"additions":16,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY5NDg1MTI3","title":"embedding_lookup_sparse divide by zero fixed","url":"https://github.com/tensorflow/tensorflow/pull/36364","state":"OPEN","mergedBy":null,"createdAt":"2020-01-31T09:20:35Z","number":36364,"changedFiles":2,"additions":25,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY3MzEwNjA1","title":"Python version corrected in doc","url":"https://github.com/tensorflow/docs/pull/1435","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/47575114?u=14981fca962fe7d59cb7ab71cc53773edab7f494&v=4","url":"https://github.com/TensorFlow-Docs-Copybara","login":"TensorFlow-Docs-Copybara"},"createdAt":"2020-01-27T04:50:23Z","number":1435,"changedFiles":2,"additions":2,"deletions":1,"baseRepository":{"name":"docs","url":"https://github.com/tensorflow/docs","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY3MTMyNzEx","title":"Gradient doc changed to accurately show the returned params","url":"https://github.com/tensorflow/tensorflow/pull/36206","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/33434372?u=04b846f1363b0968dd000a320b908dd60b95d938&v=4","url":"https://github.com/tensorflow-copybara","login":"tensorflow-copybara"},"createdAt":"2020-01-25T16:49:54Z","number":36206,"changedFiles":1,"additions":16,"deletions":2,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzY3MTI2MDk0","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/36204","state":"CLOSED","mergedBy":null,"createdAt":"2020-01-25T15:24:48Z","number":36204,"changedFiles":2,"additions":161,"deletions":1,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzYyOTY0NTc3","title":"CUDA and requirements","url":"https://github.com/NVlabs/stylegan/pull/11","state":"OPEN","mergedBy":null,"createdAt":"2020-01-15T05:32:01Z","number":11,"changedFiles":2,"additions":127,"deletions":0,"baseRepository":{"name":"stylegan","url":"https://github.com/NVlabs/stylegan","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/2695301?v=4","login":"NVlabs","url":"https://github.com/NVlabs"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2OTQ0","title":"PR4","url":"https://github.com/nischaypandey/HF1/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:33:23Z","number":4,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2ODgx","title":"PR3","url":"https://github.com/nischaypandey/HF1/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:31:54Z","number":3,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2Nzkw","title":"PR2","url":"https://github.com/nischaypandey/HF1/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:30:15Z","number":2,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzI0OTk2NzI1","title":"PR1","url":"https://github.com/nischaypandey/HF1/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","url":"https://github.com/nischaypandey","login":"nischaypandey"},"createdAt":"2019-10-06T03:28:47Z","number":1,"changedFiles":1,"additions":2,"deletions":0,"baseRepository":{"name":"HF1","url":"https://github.com/nischaypandey/HF1","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/26094362?u=d320e78775be2cd716b0e941a49aef1f8859563c&v=4","login":"nischaypandey","url":"https://github.com/nischaypandey"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE5NTg0OTgz","title":"JSON Related errors are resolved and json files are compatible to json in python","url":"https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy/pull/17","state":"OPEN","mergedBy":null,"createdAt":"2019-09-20T07:00:46Z","number":17,"changedFiles":6742,"additions":7423541,"deletions":228,"baseRepository":{"name":"Entity-Recognition-In-Resumes-SpaCy","url":"https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/39724935?v=4","login":"DataTurks-Engg","url":"https://github.com/DataTurks-Engg"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE4NjQyMzk5","title":"Added mean_absolute_percentage_error in metrics fixes #10708","url":"https://github.com/scikit-learn/scikit-learn/pull/15007","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars0.githubusercontent.com/u/630936?u=9471e1bd1f6a8b358928068faae2cbc834dfe0b4&v=4","url":"https://github.com/rth","login":"rth"},"createdAt":"2019-09-18T06:03:48Z","number":15007,"changedFiles":10,"additions":207,"deletions":46,"baseRepository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","login":"scikit-learn","url":"https://github.com/scikit-learn"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE3MDI2OTg3","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/32473","state":"CLOSED","mergedBy":null,"createdAt":"2019-09-12T18:11:26Z","number":32473,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE3MDI0NjAx","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/32472","state":"CLOSED","mergedBy":null,"createdAt":"2019-09-12T18:04:44Z","number":32472,"changedFiles":4529,"additions":260078,"deletions":126363,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzE2NzQyNjUy","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/tensorflow/tensorflow/pull/32455","state":"CLOSED","mergedBy":null,"createdAt":"2019-09-12T06:00:10Z","number":32455,"changedFiles":2,"additions":170,"deletions":0,"baseRepository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","login":"tensorflow","url":"https://github.com/tensorflow"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzA1OTM4NTE2","title":"Closing bracket was missing","url":"https://github.com/netrack/keras-metrics/pull/43","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1778407?u=4c464d8a8ba9b291717b85f1eb37b7db2873200b&v=4","url":"https://github.com/ybubnov","login":"ybubnov"},"createdAt":"2019-08-09T10:48:13Z","number":43,"changedFiles":1,"additions":1,"deletions":1,"baseRepository":{"name":"keras-metrics","url":"https://github.com/netrack/keras-metrics","owner":{"avatarUrl":"https://avatars2.githubusercontent.com/u/10380772?v=4","login":"netrack","url":"https://github.com/netrack"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAzNDk3NjY0","title":"Issue Fix #6280","url":"https://github.com/fossasia/open-event-server/pull/6289","state":"CLOSED","mergedBy":null,"createdAt":"2019-08-01T18:13:43Z","number":6289,"changedFiles":1,"additions":6,"deletions":0,"baseRepository":{"name":"open-event-server","url":"https://github.com/fossasia/open-event-server","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/6295529?v=4","login":"fossasia","url":"https://github.com/fossasia"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAzNDcwNzYz","title":"check integration default check","url":"https://github.com/fossasia/open-event-server/pull/6288","state":"CLOSED","mergedBy":null,"createdAt":"2019-08-01T16:51:30Z","number":6288,"changedFiles":2,"additions":2,"deletions":1,"baseRepository":{"name":"open-event-server","url":"https://github.com/fossasia/open-event-server","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/6295529?v=4","login":"fossasia","url":"https://github.com/fossasia"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxNDAwNjgx","title":"Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar","url":"https://github.com/google/mentornet/pull/8","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-26T05:29:39Z","number":8,"changedFiles":2,"additions":3,"deletions":2,"baseRepository":{"name":"mentornet","url":"https://github.com/google/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1342004?v=4","login":"google","url":"https://github.com/google"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMzk5NTg5","title":"Comments","url":"https://github.com/ashutosh1919/mentornet/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2019-07-26T05:23:10Z","number":1,"changedFiles":1,"additions":1,"deletions":0,"baseRepository":{"name":"mentornet","url":"https://github.com/ashutosh1919/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","login":"ashutosh1919","url":"https://github.com/ashutosh1919"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMTE4NDY2","title":"Removed Unnecessary imports","url":"https://github.com/C-Aniruddh/DeepConversation/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2019-07-25T12:21:04Z","number":1,"changedFiles":1,"additions":0,"deletions":2,"baseRepository":{"name":"DeepConversation","url":"https://github.com/C-Aniruddh/DeepConversation","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/6713004?u=c2e7a60fa5f385f22dbff72f505da269468d6395&v=4","login":"C-Aniruddh","url":"https://github.com/C-Aniruddh"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMDg1Mzc5","title":"Removed Unnecessary import","url":"https://github.com/facebook/FAI-PEP/pull/326","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-25T10:42:49Z","number":326,"changedFiles":1,"additions":0,"deletions":1,"baseRepository":{"name":"FAI-PEP","url":"https://github.com/facebook/FAI-PEP","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/69631?v=4","login":"facebook","url":"https://github.com/facebook"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMDY1ODY4","title":"Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar","url":"https://github.com/google/mentornet/pull/7","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars2.githubusercontent.com/u/13424689?u=5a623978c86d2ffb6f5c46764cf57e71c5ced884&v=4","url":"https://github.com/roadjiang","login":"roadjiang"},"createdAt":"2019-07-25T09:48:38Z","number":7,"changedFiles":2,"additions":3,"deletions":2,"baseRepository":{"name":"mentornet","url":"https://github.com/google/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1342004?v=4","login":"google","url":"https://github.com/google"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MzAxMDA1NDA3","title":"Replaced Depricated tf.contrib.deprecated.scalar_summary with tf.compat.v1.summary.scalar","url":"https://github.com/google/mentornet/pull/6","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-25T06:48:42Z","number":6,"changedFiles":2,"additions":2,"deletions":2,"baseRepository":{"name":"mentornet","url":"https://github.com/google/mentornet","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/1342004?v=4","login":"google","url":"https://github.com/google"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mjk5NjIwNDQx","title":"Quantile Huber Loss to predict Specific Quantile Value","url":"https://github.com/keras-team/keras/pull/13129","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-21T08:44:09Z","number":13129,"changedFiles":7,"additions":133,"deletions":70,"baseRepository":{"name":"keras","url":"https://github.com/keras-team/keras","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/34455048?v=4","login":"keras-team","url":"https://github.com/keras-team"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mjk3MzIzMjcz","title":"Huber Loss Function for both kind of behavior. ","url":"https://github.com/keras-team/keras/pull/13104","state":"CLOSED","mergedBy":null,"createdAt":"2019-07-13T15:14:42Z","number":13104,"changedFiles":2,"additions":22,"deletions":0,"baseRepository":{"name":"keras","url":"https://github.com/keras-team/keras","owner":{"avatarUrl":"https://avatars0.githubusercontent.com/u/34455048?v=4","login":"keras-team","url":"https://github.com/keras-team"}}},{"id":"MDExOlB1bGxSZXF1ZXN0Mjg4NTMyMzQz","title":"RC Details","url":"https://github.com/abhinavhinger12/ala/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919","login":"ashutosh1919"},"createdAt":"2019-06-15T05:19:37Z","number":2,"changedFiles":3,"additions":555,"deletions":0,"baseRepository":{"name":"ala","url":"https://github.com/abhinavhinger12/ala","owner":{"avatarUrl":"https://avatars1.githubusercontent.com/u/4638215?u=9c8d81f075a4206c9ce6386e7a97babce38c1037&v=4","login":"abhinavhinger12","url":"https://github.com/abhinavhinger12"}}},{"id":"MDExOlB1bGxSZXF1ZXN0MjQzMzQxOTg5","title":"Face Verification and Recognition","url":"https://github.com/trekhleb/homemade-machine-learning/pull/14","state":"OPEN","mergedBy":null,"createdAt":"2019-01-09T13:56:53Z","number":14,"changedFiles":268,"additions":1419,"deletions":1,"baseRepository":{"name":"homemade-machine-learning","url":"https://github.com/trekhleb/homemade-machine-learning","owner":{"avatarUrl":"https://avatars3.githubusercontent.com/u/3000285?u=1e62782f227030b78b7aa78cbbcab5f8a24e658a&v=4","login":"trekhleb","url":"https://github.com/trekhleb"}}}],"open":25,"closed":24,"merged":51,"totalCount":100}
+{
+  "closed": 4,
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzE3NDQzNDQz",
+      "title": "refactor: personalize education page",
+      "url": "https://github.com/GSri30/GSri30.github.io/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-08-23T02:25:15Z",
+      "number": 3,
+      "changedFiles": 6,
+      "additions": 177,
+      "deletions": 128,
+      "baseRepository": {
+        "name": "GSri30.github.io",
+        "url": "https://github.com/GSri30/GSri30.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzE3NDA1NDgy",
+      "title": "refactor: personalize homepage",
+      "url": "https://github.com/GSri30/GSri30.github.io/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-08-23T00:36:03Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 159,
+      "deletions": 136,
+      "baseRepository": {
+        "name": "GSri30.github.io",
+        "url": "https://github.com/GSri30/GSri30.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzE3Mzg5MzY2",
+      "title": "refactor: remove unwanted files",
+      "url": "https://github.com/GSri30/GSri30.github.io/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-08-22T23:07:46Z",
+      "number": 1,
+      "changedFiles": 12,
+      "additions": 80,
+      "deletions": 1468,
+      "baseRepository": {
+        "name": "GSri30.github.io",
+        "url": "https://github.com/GSri30/GSri30.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzA1NDAxNzYx",
+      "title": "checkin : IMT2019030",
+      "url": "https://github.com/CS-303-P-Software-Engineering-Lab/checkin/pull/21",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42712983?u=d16ec10e86ec61c771df94e28adccffc5f45fc65&v=4",
+        "url": "https://github.com/DaKeiser",
+        "login": "DaKeiser"
+      },
+      "createdAt": "2021-08-06T11:13:47Z",
+      "number": 21,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "checkin",
+        "url": "https://github.com/CS-303-P-Software-Engineering-Lab/checkin",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/88534615?v=4",
+          "login": "CS-303-P-Software-Engineering-Lab",
+          "url": "https://github.com/CS-303-P-Software-Engineering-Lab"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Njk2NDAyNDI4",
+      "title": "about-us : altered panels",
+      "url": "https://github.com/zense/zense-website-new/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-07-24T20:30:54Z",
+      "number": 9,
+      "changedFiles": 6,
+      "additions": 102,
+      "deletions": 17,
+      "baseRepository": {
+        "name": "zense-website-new",
+        "url": "https://github.com/zense/zense-website-new",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9000094?v=4",
+          "login": "zense",
+          "url": "https://github.com/zense"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Njk2MzUxMDc1",
+      "title": "about-us component",
+      "url": "https://github.com/zense/zense-website-new/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-07-24T13:24:42Z",
+      "number": 8,
+      "changedFiles": 6,
+      "additions": 186,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "zense-website-new",
+        "url": "https://github.com/zense/zense-website-new",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9000094?v=4",
+          "login": "zense",
+          "url": "https://github.com/zense"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjQ1MzM2Nzc4",
+      "title": "Day 2 task",
+      "url": "https://github.com/incubateind/idtc-opensource-day2/pull/27",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2021-05-16T15:56:12Z",
+      "number": 27,
+      "changedFiles": 2,
+      "additions": 163,
+      "deletions": 162,
+      "baseRepository": {
+        "name": "idtc-opensource-day2",
+        "url": "https://github.com/incubateind/idtc-opensource-day2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56552667?v=4",
+          "login": "incubateind",
+          "url": "https://github.com/incubateind"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAxNDg1MDgz",
+      "title": "Update README.md",
+      "url": "https://github.com/GSri30/ci-cd-with-actions/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-03-26T10:29:00Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "ci-cd-with-actions",
+        "url": "https://github.com/GSri30/ci-cd-with-actions",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk4NzU3OTM2",
+      "title": "importing changes",
+      "url": "https://github.com/GSri30/Infin8Website/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-03-23T11:02:33Z",
+      "number": 2,
+      "changedFiles": 77,
+      "additions": 1105,
+      "deletions": 181,
+      "baseRepository": {
+        "name": "Infin8Website",
+        "url": "https://github.com/GSri30/Infin8Website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTkzODAyMjcy",
+      "title": "minor changes",
+      "url": "https://github.com/zense/Infin8Website/pull/30",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-03-16T11:12:17Z",
+      "number": 30,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Infin8Website",
+        "url": "https://github.com/zense/Infin8Website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9000094?v=4",
+          "login": "zense",
+          "url": "https://github.com/zense"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTkzNzkzMTY2",
+      "title": "importing changes",
+      "url": "https://github.com/GSri30/Infin8Website/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-03-16T10:58:55Z",
+      "number": 1,
+      "changedFiles": 82,
+      "additions": 1134,
+      "deletions": 1232,
+      "baseRepository": {
+        "name": "Infin8Website",
+        "url": "https://github.com/GSri30/Infin8Website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTkxNDcyNjc5",
+      "title": "footer-minor-changes",
+      "url": "https://github.com/zense/Infin8Website/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-03-12T08:27:43Z",
+      "number": 20,
+      "changedFiles": 1,
+      "additions": 11,
+      "deletions": 23,
+      "baseRepository": {
+        "name": "Infin8Website",
+        "url": "https://github.com/zense/Infin8Website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9000094?v=4",
+          "login": "zense",
+          "url": "https://github.com/zense"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg3MTI4MDMw",
+      "title": "Added timeline",
+      "url": "https://github.com/zense/zense-website-new/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-03-08T21:43:48Z",
+      "number": 7,
+      "changedFiles": 7,
+      "additions": 188,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "zense-website-new",
+        "url": "https://github.com/zense/zense-website-new",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9000094?v=4",
+          "login": "zense",
+          "url": "https://github.com/zense"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg3MDUyODU2",
+      "title": "importing changes",
+      "url": "https://github.com/GSri30/zense-website-new/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-03-08T19:48:20Z",
+      "number": 2,
+      "changedFiles": 27,
+      "additions": 525,
+      "deletions": 12174,
+      "baseRepository": {
+        "name": "zense-website-new",
+        "url": "https://github.com/GSri30/zense-website-new",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MDA0Mzg0",
+      "title": "updated logos, favicon and title",
+      "url": "https://github.com/zense/Infin8Website/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42925218?u=b282f7166f7a41753df3a9326c00dc4c16461905&v=4",
+        "url": "https://github.com/kernelpanic77",
+        "login": "kernelpanic77"
+      },
+      "createdAt": "2021-02-20T20:49:10Z",
+      "number": 9,
+      "changedFiles": 7,
+      "additions": 5,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "Infin8Website",
+        "url": "https://github.com/zense/Infin8Website",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9000094?v=4",
+          "login": "zense",
+          "url": "https://github.com/zense"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTcxNjgwMjgy",
+      "title": "importing changes",
+      "url": "https://github.com/GSri30/zense-website-new/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-02-11T09:29:16Z",
+      "number": 1,
+      "changedFiles": 5,
+      "additions": 20,
+      "deletions": 18,
+      "baseRepository": {
+        "name": "zense-website-new",
+        "url": "https://github.com/GSri30/zense-website-new",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTcwNjY5MzA5",
+      "title": "dockerized-node:15",
+      "url": "https://github.com/zense/zense-website-new/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-02-09T22:47:18Z",
+      "number": 3,
+      "changedFiles": 4,
+      "additions": 33,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "zense-website-new",
+        "url": "https://github.com/zense/zense-website-new",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9000094?v=4",
+          "login": "zense",
+          "url": "https://github.com/zense"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY4OTYzNDI5",
+      "title": "Create docker-image.yml",
+      "url": "https://github.com/GSri30/IIITB-bot/pull/8",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-02-07T12:10:33Z",
+      "number": 8,
+      "changedFiles": 1,
+      "additions": 18,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "IIITB-bot",
+        "url": "https://github.com/GSri30/IIITB-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY4OTYyNjIx",
+      "title": "Dockerized the application",
+      "url": "https://github.com/GLaDO8/IIITBGender-Cell-Portal/pull/2",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2021-02-07T12:04:42Z",
+      "number": 2,
+      "changedFiles": 4,
+      "additions": 30,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "IIITBGender-Cell-Portal",
+        "url": "https://github.com/GLaDO8/IIITBGender-Cell-Portal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/22849100?u=2d0c68190a58dc27288ca52ca2ba93cf020adc4f&v=4",
+          "login": "GLaDO8",
+          "url": "https://github.com/GLaDO8"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTYwOTgyMjYx",
+      "title": "inheriting changes",
+      "url": "https://github.com/GSri30/canvasboard/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-01-25T10:41:55Z",
+      "number": 1,
+      "changedFiles": 101,
+      "additions": 7648,
+      "deletions": 6616,
+      "baseRepository": {
+        "name": "canvasboard",
+        "url": "https://github.com/GSri30/canvasboard",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTU0OTk5MDA4",
+      "title": "Create LICENSE",
+      "url": "https://github.com/GSri30/IIITB-bot/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-01-14T15:15:13Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "IIITB-bot",
+        "url": "https://github.com/GSri30/IIITB-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTU0MDAxNjEx",
+      "title": "import changes",
+      "url": "https://github.com/GSri30/JuniorsGitTutorial/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-01-13T08:07:11Z",
+      "number": 2,
+      "changedFiles": 6,
+      "additions": 17,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "JuniorsGitTutorial",
+        "url": "https://github.com/GSri30/JuniorsGitTutorial",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTUzOTQ0MTY5",
+      "title": "Issues 1 and 4 solved",
+      "url": "https://github.com/zense/JuniorsGitTutorial/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42925218?u=b282f7166f7a41753df3a9326c00dc4c16461905&v=4",
+        "url": "https://github.com/kernelpanic77",
+        "login": "kernelpanic77"
+      },
+      "createdAt": "2021-01-13T06:03:02Z",
+      "number": 5,
+      "changedFiles": 10,
+      "additions": 12,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "JuniorsGitTutorial",
+        "url": "https://github.com/zense/JuniorsGitTutorial",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9000094?v=4",
+          "login": "zense",
+          "url": "https://github.com/zense"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTUzNjM4MzM4",
+      "title": "Update README.md",
+      "url": "https://github.com/GSri30/JuniorsGitTutorial/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2021-01-12T17:48:22Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "JuniorsGitTutorial",
+        "url": "https://github.com/GSri30/JuniorsGitTutorial",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTQ1MzgyNjYw",
+      "title": "Added timeline",
+      "url": "https://github.com/vijay-jaisankar/8Bit-Submission/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56185979?u=65beb118f34e21c0acb0d56ed98f75b11e1647bc&v=4",
+        "url": "https://github.com/vijay-jaisankar",
+        "login": "vijay-jaisankar"
+      },
+      "createdAt": "2020-12-24T14:01:53Z",
+      "number": 1,
+      "changedFiles": 10,
+      "additions": 242,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "8Bit-Submission",
+        "url": "https://github.com/vijay-jaisankar/8Bit-Submission",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56185979?u=65beb118f34e21c0acb0d56ed98f75b11e1647bc&v=4",
+          "login": "vijay-jaisankar",
+          "url": "https://github.com/vijay-jaisankar"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTMwNzU1ODYw",
+      "title": "Included animations",
+      "url": "https://github.com/Dhamodhar-DDR/Candle_Simulation/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56181018?u=7b8d7ba1fbde07cbf78ce2c4ea0e08c1b32950c9&v=4",
+        "url": "https://github.com/Dhamodhar-DDR",
+        "login": "Dhamodhar-DDR"
+      },
+      "createdAt": "2020-12-02T05:23:50Z",
+      "number": 1,
+      "changedFiles": 373,
+      "additions": 22416,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Candle_Simulation",
+        "url": "https://github.com/Dhamodhar-DDR/Candle_Simulation",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56181018?u=7b8d7ba1fbde07cbf78ce2c4ea0e08c1b32950c9&v=4",
+          "login": "Dhamodhar-DDR",
+          "url": "https://github.com/Dhamodhar-DDR"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2MDEzOTQ0",
+      "title": "Added merge sort",
+      "url": "https://github.com/hanzohasashi33/Competetive_programming/pull/26",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54119123?u=f08e1a3b2cb36bd9ebda9dd40f1c6c97f7ed3fa2&v=4",
+        "url": "https://github.com/hanzohasashi33",
+        "login": "hanzohasashi33"
+      },
+      "createdAt": "2020-10-01T06:57:51Z",
+      "number": 26,
+      "changedFiles": 1,
+      "additions": 326,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Competetive_programming",
+        "url": "https://github.com/hanzohasashi33/Competetive_programming",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54119123?u=f08e1a3b2cb36bd9ebda9dd40f1c6c97f7ed3fa2&v=4",
+          "login": "hanzohasashi33",
+          "url": "https://github.com/hanzohasashi33"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2MDAxOTk0",
+      "title": "Added round 673 div2 solutions",
+      "url": "https://github.com/masterchief01/Competitive-programming/pull/33",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52863441?u=bc1324117390a11bba1e551114417126866193ff&v=4",
+        "url": "https://github.com/masterchief01",
+        "login": "masterchief01"
+      },
+      "createdAt": "2020-10-01T06:36:03Z",
+      "number": 33,
+      "changedFiles": 3,
+      "additions": 346,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Competitive-programming",
+        "url": "https://github.com/masterchief01/Competitive-programming",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/52863441?u=bc1324117390a11bba1e551114417126866193ff&v=4",
+          "login": "masterchief01",
+          "url": "https://github.com/masterchief01"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk1OTk2MzA5",
+      "title": "Added sums on hashing",
+      "url": "https://github.com/GaganAgarwal77/DataStructures-and-Algorithms/pull/3",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-10-01T06:25:54Z",
+      "number": 3,
+      "changedFiles": 3,
+      "additions": 316,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "DataStructures-and-Algorithms",
+        "url": "https://github.com/GaganAgarwal77/DataStructures-and-Algorithms",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/53825001?u=83808f4192929c8e28e658a16e2dbcbcfec49341&v=4",
+          "login": "GaganAgarwal77",
+          "url": "https://github.com/GaganAgarwal77"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk1OTkzOTE5",
+      "title": "added new problem",
+      "url": "https://github.com/divyamagwl/CompetitiveProgramming/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978985?u=775e98d50090f934d547f3c686abca79d065873c&v=4",
+        "url": "https://github.com/divyamagwl",
+        "login": "divyamagwl"
+      },
+      "createdAt": "2020-10-01T06:21:18Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 16,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "CompetitiveProgramming",
+        "url": "https://github.com/divyamagwl/CompetitiveProgramming",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/53978985?u=775e98d50090f934d547f3c686abca79d065873c&v=4",
+          "login": "divyamagwl",
+          "url": "https://github.com/divyamagwl"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU4Mjc1Nzc5",
+      "title": "Added Source code and gifs of animations",
+      "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive/pull/94",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-07-29T08:22:07Z",
+      "number": 94,
+      "changedFiles": 16,
+      "additions": 1187,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/703487?v=4",
+          "login": "FOSSEE",
+          "url": "https://github.com/FOSSEE"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU3NTQ1ODE5",
+      "title": "importing changes",
+      "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-07-28T04:41:41Z",
+      "number": 8,
+      "changedFiles": 238,
+      "additions": 7759,
+      "deletions": 1280,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ5MzQ1NTE0",
+      "title": "Removed q transform from readme",
+      "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive/pull/73",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5101224?u=87a9ce31caa3b3efbb57339784b5df8900428a02&v=4",
+        "url": "https://github.com/purusharths",
+        "login": "purusharths"
+      },
+      "createdAt": "2020-07-15T09:00:02Z",
+      "number": 73,
+      "changedFiles": 1,
+      "additions": 5,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/703487?v=4",
+          "login": "FOSSEE",
+          "url": "https://github.com/FOSSEE"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ5MzQyMDkz",
+      "title": "importing changes",
+      "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-07-15T08:53:43Z",
+      "number": 7,
+      "changedFiles": 43,
+      "additions": 1575,
+      "deletions": 60,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ3NDQxNzky",
+      "title": "made code cleaner",
+      "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive/pull/70",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5101224?u=87a9ce31caa3b3efbb57339784b5df8900428a02&v=4",
+        "url": "https://github.com/purusharths",
+        "login": "purusharths"
+      },
+      "createdAt": "2020-07-10T13:30:24Z",
+      "number": 70,
+      "changedFiles": 9,
+      "additions": 19,
+      "deletions": 121,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/703487?v=4",
+          "login": "FOSSEE",
+          "url": "https://github.com/FOSSEE"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ3NDMzNzA1",
+      "title": "obtaining changes",
+      "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-07-10T13:15:39Z",
+      "number": 6,
+      "changedFiles": 63,
+      "additions": 1127,
+      "deletions": 240,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ2MDYyNjc3",
+      "title": "Applied the changes",
+      "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive/pull/53",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5101224?u=87a9ce31caa3b3efbb57339784b5df8900428a02&v=4",
+        "url": "https://github.com/purusharths",
+        "login": "purusharths"
+      },
+      "createdAt": "2020-07-08T07:52:27Z",
+      "number": 53,
+      "changedFiles": 12,
+      "additions": 99,
+      "deletions": 46,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/703487?v=4",
+          "login": "FOSSEE",
+          "url": "https://github.com/FOSSEE"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ2MDQyOTgy",
+      "title": "importing changes",
+      "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-07-08T07:10:58Z",
+      "number": 5,
+      "changedFiles": 153,
+      "additions": 5507,
+      "deletions": 610,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQyMzA3ODYx",
+      "title": "Added codes and gifs",
+      "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive/pull/44",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5101224?u=87a9ce31caa3b3efbb57339784b5df8900428a02&v=4",
+        "url": "https://github.com/purusharths",
+        "login": "purusharths"
+      },
+      "createdAt": "2020-06-30T21:32:30Z",
+      "number": 44,
+      "changedFiles": 42,
+      "additions": 1261,
+      "deletions": 207,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/703487?v=4",
+          "login": "FOSSEE",
+          "url": "https://github.com/FOSSEE"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQyMjY2NDkx",
+      "title": "others work",
+      "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-06-30T20:09:21Z",
+      "number": 4,
+      "changedFiles": 221,
+      "additions": 8204,
+      "deletions": 172,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDI1MDgxODUz",
+      "title": "Added others' files",
+      "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-05-29T12:44:48Z",
+      "number": 3,
+      "changedFiles": 13,
+      "additions": 420,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDIzMDg2NTM0",
+      "title": "Added GIFs to readme and Updated file names",
+      "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive/pull/26",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5101224?u=87a9ce31caa3b3efbb57339784b5df8900428a02&v=4",
+        "url": "https://github.com/purusharths",
+        "login": "purusharths"
+      },
+      "createdAt": "2020-05-26T09:21:09Z",
+      "number": 26,
+      "changedFiles": 36,
+      "additions": 565,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/703487?v=4",
+          "login": "FOSSEE",
+          "url": "https://github.com/FOSSEE"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDIzMDMzNzYw",
+      "title": "Importing changes",
+      "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-05-26T07:31:36Z",
+      "number": 2,
+      "changedFiles": 52,
+      "additions": 2553,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDIyMzExMjUw",
+      "title": "adding others' work",
+      "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-05-23T18:36:37Z",
+      "number": 1,
+      "changedFiles": 32,
+      "additions": 739,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/GSri30/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0MDQ3NDUy",
+      "title": "Create LICENSE",
+      "url": "https://github.com/GSri30/LostAndFound-Web/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-05-06T11:50:50Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "LostAndFound-Web",
+        "url": "https://github.com/GSri30/LostAndFound-Web",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDE0MDQyNjI0",
+      "title": "Updated my readme.md",
+      "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5101224?u=87a9ce31caa3b3efbb57339784b5df8900428a02&v=4",
+        "url": "https://github.com/purusharths",
+        "login": "purusharths"
+      },
+      "createdAt": "2020-05-06T11:39:54Z",
+      "number": 1,
+      "changedFiles": 12,
+      "additions": 1221,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "FSF-mathematics-python-code-archive",
+        "url": "https://github.com/FOSSEE/FSF-mathematics-python-code-archive",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/703487?v=4",
+          "login": "FOSSEE",
+          "url": "https://github.com/FOSSEE"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDEzMjIxNzky",
+      "title": "Create LICENSE",
+      "url": "https://github.com/GSri30/MathsAnimations/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-05-04T22:38:24Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "MathsAnimations",
+        "url": "https://github.com/GSri30/MathsAnimations",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDEzMjE2NzA5",
+      "title": "Added the license",
+      "url": "https://github.com/GSri30/MathsAnimations/pull/2",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-05-04T22:23:13Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "MathsAnimations",
+        "url": "https://github.com/GSri30/MathsAnimations",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDEzMjE1OTU4",
+      "title": "Create LICENSE",
+      "url": "https://github.com/GSri30/MathsAnimations/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2020-05-04T22:21:07Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "MathsAnimations",
+        "url": "https://github.com/GSri30/MathsAnimations",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzQxNzEyMTE1",
+      "title": "Hack Night Project",
+      "url": "https://github.com/zense/Canvas-Competition/pull/68",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42511766?u=c04e793202a478e3603474658c1daafbdad42972&v=4",
+        "url": "https://github.com/sal2701",
+        "login": "sal2701"
+      },
+      "createdAt": "2019-11-16T02:21:18Z",
+      "number": 68,
+      "changedFiles": 5,
+      "additions": 201,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "Canvas-Competition",
+        "url": "https://github.com/zense/Canvas-Competition",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9000094?v=4",
+          "login": "zense",
+          "url": "https://github.com/zense"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzMwOTYyNzk5",
+      "title": "Update README.md",
+      "url": "https://github.com/salesagility/SuiteDocs/pull/390",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2019-10-22T12:24:31Z",
+      "number": 390,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "SuiteDocs",
+        "url": "https://github.com/salesagility/SuiteDocs",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1450870?v=4",
+          "login": "salesagility",
+          "url": "https://github.com/salesagility"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI4Mzc3NjMy",
+      "title": "added readme and a file",
+      "url": "https://github.com/Saad2714/Cpp-codes/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44060028?u=4ba0601c71f570db0c8ec8d1a69d59ef930f1b7e&v=4",
+        "url": "https://github.com/Saad2714",
+        "login": "Saad2714"
+      },
+      "createdAt": "2019-10-15T17:13:57Z",
+      "number": 2,
+      "changedFiles": 2,
+      "additions": 48,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Cpp-codes",
+        "url": "https://github.com/Saad2714/Cpp-codes",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44060028?u=4ba0601c71f570db0c8ec8d1a69d59ef930f1b7e&v=4",
+          "login": "Saad2714",
+          "url": "https://github.com/Saad2714"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI4MzcyNzEw",
+      "title": "done some changes in readme",
+      "url": "https://github.com/woolllff/LUDO/pull/3",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2019-10-15T17:00:49Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 5,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "LUDO",
+        "url": "https://github.com/woolllff/LUDO",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/43410931?u=d6becb712b06bfa2fe5c90e14728605a4e06b7c6&v=4",
+          "login": "woolllff",
+          "url": "https://github.com/woolllff"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI3MzAxMDMx",
+      "title": "Update Solve Me First",
+      "url": "https://github.com/kernelpanic77/competitive_programming/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2019-10-11T17:42:06Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "competitive_programming",
+        "url": "https://github.com/kernelpanic77/competitive_programming",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/42925218?u=b282f7166f7a41753df3a9326c00dc4c16461905&v=4",
+          "login": "kernelpanic77",
+          "url": "https://github.com/kernelpanic77"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI3MjczMjUz",
+      "title": "Update README.md",
+      "url": "https://github.com/DDDEastMidlandsLimited/dddem-blog/pull/33",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2019-10-11T16:16:25Z",
+      "number": 33,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "dddem-blog",
+        "url": "https://github.com/DDDEastMidlandsLimited/dddem-blog",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/43917435?v=4",
+          "login": "DDDEastMidlandsLimited",
+          "url": "https://github.com/DDDEastMidlandsLimited"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI3MjYyMzA5",
+      "title": "Update README",
+      "url": "https://github.com/google/codesearch/pull/72",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2019-10-11T15:47:47Z",
+      "number": 72,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "codesearch",
+        "url": "https://github.com/google/codesearch",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
+          "login": "google",
+          "url": "https://github.com/google"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI3MjQ4ODI5",
+      "title": "Create Sri Harsha G.md",
+      "url": "https://github.com/AliceWonderland/hacktoberfest/pull/5890",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2019-10-11T15:15:25Z",
+      "number": 5890,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "hacktoberfest",
+        "url": "https://github.com/AliceWonderland/hacktoberfest",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4131409?v=4",
+          "login": "AliceWonderland",
+          "url": "https://github.com/AliceWonderland"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI3MjQ1MTE1",
+      "title": "Added myself",
+      "url": "https://github.com/AliceWonderland/hacktoberfest/pull/5889",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2019-10-11T15:06:44Z",
+      "number": 5889,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "hacktoberfest",
+        "url": "https://github.com/AliceWonderland/hacktoberfest",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4131409?v=4",
+          "login": "AliceWonderland",
+          "url": "https://github.com/AliceWonderland"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI3MjQyOTcz",
+      "title": "Update CONTRIBUTORS.md",
+      "url": "https://github.com/ArpithaMalavalli/hacktoberfest/pull/2",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2019-10-11T15:01:55Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "hacktoberfest",
+        "url": "https://github.com/ArpithaMalavalli/hacktoberfest",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/43338432?u=2696e6555e1e4a0030d897e2529e6d5fa7fe2447&v=4",
+          "login": "ArpithaMalavalli",
+          "url": "https://github.com/ArpithaMalavalli"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI2NjY2MDU5",
+      "title": "Update example_scenes.py",
+      "url": "https://github.com/Elteoremadebeethoven/Manim-TB/pull/3",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2019-10-10T10:37:07Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Manim-TB",
+        "url": "https://github.com/Elteoremadebeethoven/Manim-TB",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/43224662?u=0c81ed594d5fcd225cf461b2fd631682435f4f97&v=4",
+          "login": "Elteoremadebeethoven",
+          "url": "https://github.com/Elteoremadebeethoven"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI2MTQ2MDk5",
+      "title": "Update README.md",
+      "url": "https://github.com/divyamagwl/animations/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978985?u=775e98d50090f934d547f3c686abca79d065873c&v=4",
+        "url": "https://github.com/divyamagwl",
+        "login": "divyamagwl"
+      },
+      "createdAt": "2019-10-09T09:08:02Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "animations",
+        "url": "https://github.com/divyamagwl/animations",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/53978985?u=775e98d50090f934d547f3c686abca79d065873c&v=4",
+          "login": "divyamagwl",
+          "url": "https://github.com/divyamagwl"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzI0NjYwMjU4",
+      "title": "Update LAB1.1.c",
+      "url": "https://github.com/divyamagwl/apprendre-C/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53978985?u=775e98d50090f934d547f3c686abca79d065873c&v=4",
+        "url": "https://github.com/divyamagwl",
+        "login": "divyamagwl"
+      },
+      "createdAt": "2019-10-04T12:37:23Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 13,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "apprendre-C",
+        "url": "https://github.com/divyamagwl/apprendre-C",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/53978985?u=775e98d50090f934d547f3c686abca79d065873c&v=4",
+          "login": "divyamagwl",
+          "url": "https://github.com/divyamagwl"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MzEzMTA4OTY0",
+      "title": "Readme edits",
+      "url": "https://github.com/GSri30/hello-world/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+        "url": "https://github.com/GSri30",
+        "login": "GSri30"
+      },
+      "createdAt": "2019-09-02T04:44:05Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 5,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "hello-world",
+        "url": "https://github.com/GSri30/hello-world",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54752266?u=efb2c4f958b327de7eede6b7d834febb7bf0fabd&v=4",
+          "login": "GSri30",
+          "url": "https://github.com/GSri30"
+        }
+      }
+    }
+  ],
+  "merged": 48,
+  "open": 11,
+  "totalCount": 63
+}
