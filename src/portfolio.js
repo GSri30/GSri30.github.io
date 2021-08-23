@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -22,7 +22,13 @@ const greeting = {
   title: "G Sri Harsha",
   logo_name: "SriHarsha",
   nickname: "GSri30",
-  subTitle: "Full-Stack Developer.",
+  subTitle: [
+    "Full-Stack Developer",
+    "Competitive Programmer",
+    "Designer",
+    "Piano Player",
+    "Acrylic and Oil Painter",
+  ],
   // resumeLink: "",
   portfolio_repository: "https://github.com/GSri30/GSri30.github.io/tree/main",
 };
